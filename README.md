@@ -92,11 +92,11 @@ Building scalable products used by <b>30K+ users</b>
 
 ---
 
-## 🟢 Contribution Insights
+## 🟢 Contribution Grid
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FahadSaifi1&theme=tokyonight" width="60%" />
+<img src="https://github-contribution-stats.vercel.app/api/?username=FahadSaifi1&theme=tokyonight" width="90%" />
 
 </div>
 
