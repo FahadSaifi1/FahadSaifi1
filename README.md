@@ -7,7 +7,7 @@
 <p>
 🚀 Full Stack Developer • MERN • React Native • AWS  
 <br/>
-Building scalable products used by <b>30K+ users</b>
+Building scalable products used by <b>30K+ users</b> from scratch
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+React+Native+%7C+AWS;Building+Scalable+Applications;Focused+on+Performance+%26+System+Design" />
