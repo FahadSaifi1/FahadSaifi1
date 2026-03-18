@@ -19,7 +19,7 @@ Building scalable products used by <b>30K+ users</b> from scratch
 ## 🚀 About Me
 
 - 💻 Full Stack Developer building scalable **web & mobile applications**
-- 📈 Built products serving **25K–30K monthly users**
+- 📈 Built products serving **25K–30K monthly users** from scratch
 - ⚡ Specialized in **MERN Stack, React Native & AWS**
 - 🧠 Strong in **Backend Architecture & System Design**
 - 🌐 Portfolio: **https://fahadsaifi.com**
