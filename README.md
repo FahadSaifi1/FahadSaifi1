@@ -60,33 +60,7 @@ Building scalable products used by <b>30K+ users</b>
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FahadSaifi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadSaifi1&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadSaifi1&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadSaifi1&theme=tokyo-night&bg_color=0D1117&color=00B894&line=00B894&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 💎 Contribution Insights Dashboard
+## 💎 Developer Dashboard
 
 <div align="center">
 
@@ -103,6 +77,26 @@ Building scalable products used by <b>30K+ users</b>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FahadSaifi1&theme=tokyonight" width="48%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FahadSaifi1&theme=tokyonight" width="48%" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadSaifi1&theme=tokyo-night&bg_color=0D1117&color=00B894&line=00B894&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🟢 Contribution Insights
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FahadSaifi1&theme=tokyonight" width="60%" />
 
 </div>
 
