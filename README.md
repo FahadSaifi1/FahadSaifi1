@@ -96,7 +96,7 @@ Building scalable products used by <b>30K+ users</b>
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/39D353/FahadSaifi1" width="95%" />
+<img src="https://ghchart.rshah.org/0E4429/FahadSaifi1" />
 
 </div>
 
