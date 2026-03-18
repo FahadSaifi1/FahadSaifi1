@@ -1,91 +1,118 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120px" />
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
+
+<h1>Hi, I'm Fahad Saifi 👋</h1>
+
+<p>
+🚀 Full Stack Developer • MERN • React Native • AWS  
+<br/>
+Building scalable products used by <b>30K+ users</b>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+%7C+React+Native+%7C+AWS;Building+Scalable+Applications;Focused+on+Performance+%26+System+Design" />
+
 </div>
+
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer focused on **scalable web & mobile apps**
+- 📈 Built products serving **25K–30K monthly users**
+- ⚡ Specialized in **MERN, React Native & AWS**
+- 🧠 Strong in **Backend Architecture & System Design**
+- 🌐 Portfolio: **https://fahadsaifi.com**
+- 📫 Email: **Saififahad925@gmail.com**
+
+---
+
+## 🧠 Tech Stack
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00B894&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Fahad+Saifi+👋;Full+Stack+Developer;Building+Scalable+Apps+Serving+30K%2B+Users;MERN+%7C+React+Native+%7C+AWS" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,ts,aws,docker,git" />
+
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 Featured Work
 
-💻 Full Stack Developer building scalable **web & mobile applications**  
-📈 Built products serving **25K–30K monthly users**  
-⚡ Specialized in **MERN Stack, React Native & AWS**  
-🧠 Strong in **Backend Architecture & System Design**  
-🌐 Portfolio: https://fahadsaifi.com  
-📫 Email: Saififahad925@gmail.com  
+### 🔥 Neet-Bhaiya
+🚀 Cross-platform EdTech platform
 
----
-
-### 🧠 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,ts,aws,docker,git" />
-</div>
-
----
-
-### 🚀 Featured Projects
-
-#### 🔥 Neet-Bhaiya
-🚀 Cross-platform EdTech platform for NEET aspirants  
-
-✔ Serving **25K–30K users/month**  
-✔ Rank Predictor & College Predictor  
-✔ AWS S3 Cloud Storage  
-✔ Web + Mobile Apps  
+- 👥 **25K–30K users/month**
+- 🎯 Rank Predictor & College Predictor
+- ☁️ AWS S3 cloud infrastructure
+- 📱 Web + Mobile apps
 
 🔗 https://www.neetbhaiya.in  
 
 ---
 
-#### 🛒 E-Commerce Platform
+### 🛒 E-Commerce Platform
 
-✔ Full-stack MERN application  
-✔ Product, Cart & Admin Dashboard  
-✔ Authentication & Authorization  
-✔ REST API architecture  
+- 🧩 Full-stack MERN architecture
+- 🔐 Auth & Role-based access
+- 📦 Product, Cart, Admin Dashboard
+- ⚡ Optimized REST APIs
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FahadSaifi1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=FahadSaifi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadSaifi1&theme=tokyonight&hide_border=true" width="48%" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadSaifi1&theme=react-dark&hide_border=true&area=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadSaifi1&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 
 </div>
 
 ---
 
-### 🐍 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahadSaifi1/FahadSaifi1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahadSaifi1/FahadSaifi1/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/FahadSaifi1/FahadSaifi1/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadSaifi1&theme=tokyo-night&hide_border=true&area=true" />
+
 </div>
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements
 
-🏅 Built and scaled a platform to **30K+ users**  
-🚀 Developed production-ready **web & mobile apps**  
-⚡ Hands-on experience with **AWS & scalable systems**
+- 🏅 Scaled a platform to **30K+ active users**
+- 🚀 Built **production-grade web & mobile apps**
+- ⚡ Strong hands-on with **AWS & scalable systems**
+- 💡 Focused on **performance, scalability & clean architecture**
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:Saififahad925@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00B894?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://fahadsaifi.com">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=FahadSaifi1&label=Profile+Views&color=00B894&style=flat" />
+
+<img src="https://komarev.com/ghpvc/?username=FahadSaifi1&label=Profile+Views&color=00B894&style=flat" />
+
 </div>
