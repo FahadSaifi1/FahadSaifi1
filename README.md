@@ -86,6 +86,7 @@ Building scalable products used by <b>30K+ users</b>
 - 📦 Product, Cart & Admin Dashboard  
 - ⚡ REST API architecture  
 
+🔗 https://https://forever-ecommerce-frontend-mu.vercel.app/
 ---
 
 ## 💎 Developer Dashboard
