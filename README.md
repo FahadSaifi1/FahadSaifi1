@@ -96,7 +96,7 @@ Building scalable products used by <b>30K+ users</b>
 
 <div align="center">
 
-<img src="https://github-contribution-stats.vercel.app/api/?username=FahadSaifi1&theme=tokyonight" width="90%" />
+<img src="https://ghchart.rshah.org/00B894/FahadSaifi1" width="95%" />
 
 </div>
 
