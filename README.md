@@ -22,9 +22,7 @@
 ### 🧠 Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,ts,aws,docker,git" />
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,ts,aws,docker,git" />
 </div>
 
 ---
@@ -68,6 +66,18 @@
 
 ---
 
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahadSaifi1/FahadSaifi1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahadSaifi1/FahadSaifi1/output/github-contribution-grid-snake.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/FahadSaifi1/FahadSaifi1/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ### 🏆 Achievements
 
 🏅 Built and scaled a platform to **30K+ users**  
@@ -77,7 +87,5 @@
 ---
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=FahadSaifi1&label=Profile+Views&color=00B894&style=flat" />
-
+  <img src="https://komarev.com/ghpvc/?username=FahadSaifi1&label=Profile+Views&color=00B894&style=flat" />
 </div>
