@@ -86,11 +86,23 @@ Building scalable products used by <b>30K+ users</b>
 
 ---
 
-## 🟢 Contribution Grid
+## 💎 Contribution Insights Dashboard
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/00B894/FahadSaifi1" alt="Fahad Saifi GitHub chart" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahadSaifi1&theme=tokyonight" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FahadSaifi1&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FahadSaifi1&theme=tokyonight" width="48%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FahadSaifi1&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FahadSaifi1&theme=tokyonight" width="48%" />
 
 </div>
 
