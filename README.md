@@ -32,7 +32,7 @@ Building scalable products used by <b>30K+ users</b>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,reactnative" /><br/>
-<img src="https://skillicons.dev/icons?i=java,python,mysql,vercel,aws,ts,docker,postman,git" />
+<img src="https://skillicons.dev/icons?i=java,mysql,vercel,aws,ts,docker,postman,git" />
 
 </div>
 
