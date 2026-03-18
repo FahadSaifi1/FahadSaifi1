@@ -13,6 +13,7 @@
 💻 Full Stack Developer building scalable **web & mobile applications**  
 📈 Built products serving **25K–30K monthly users**  
 ⚡ Specialized in **MERN Stack, React Native & AWS**  
+📱 Focused on **Web & Mobile App Development**  
 🧠 Strong in **Backend Architecture & System Design**  
 🌐 Portfolio: https://fahadsaifi.com  
 📫 Email: Saififahad925@gmail.com  
@@ -56,14 +57,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=FahadSafi1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadSafi1&theme=tokyonight&hide_border=true" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadSafi1&theme=react-dark&hide_border=true&area=true" />
 
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FahadSafi1/FahadSafi1/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
@@ -78,6 +87,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00B894&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=FahadSafi1&label=Profile+Views&color=00B894&style=flat" />
 
 </div>
