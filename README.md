@@ -84,9 +84,10 @@ Building scalable products used by <b>30K+ users</b>
 - 🧩 Full-stack MERN architecture  
 - 🔐 Authentication & authorization  
 - 📦 Product, Cart & Admin Dashboard  
-- ⚡ REST API architecture  
+- ⚡ REST API architecture
 
-🔗 https://https://forever-ecommerce-frontend-mu.vercel.app/
+🔗 https://https://forever-ecommerce-frontend-mu.vercel.app/  
+
 ---
 
 ## 💎 Developer Dashboard
