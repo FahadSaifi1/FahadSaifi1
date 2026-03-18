@@ -86,6 +86,16 @@ Building scalable products used by <b>30K+ users</b>
 
 ---
 
+## 🟢 Contribution Grid
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00B894/FahadSaifi1" alt="Fahad Saifi GitHub chart" width="100%"/>
+
+</div>
+
+---
+
 ## 🏆 Achievements
 
 - 🏅 Built and scaled a platform to **30K+ users**
