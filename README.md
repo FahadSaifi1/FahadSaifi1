@@ -18,9 +18,9 @@ Building scalable products used by <b>30K+ users</b>
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer focused on **scalable web & mobile apps**
+- 💻 Full Stack Developer building scalable **web & mobile applications**
 - 📈 Built products serving **25K–30K monthly users**
-- ⚡ Specialized in **MERN, React Native & AWS**
+- ⚡ Specialized in **MERN Stack, React Native & AWS**
 - 🧠 Strong in **Backend Architecture & System Design**
 - 🌐 Portfolio: **https://fahadsaifi.com**
 - 📫 Email: **Saififahad925@gmail.com**
@@ -40,12 +40,12 @@ Building scalable products used by <b>30K+ users</b>
 ## 🚀 Featured Work
 
 ### 🔥 Neet-Bhaiya
-🚀 Cross-platform EdTech platform
+🚀 Cross-platform EdTech platform  
 
 - 👥 **25K–30K users/month**
-- 🎯 Rank Predictor & College Predictor
-- ☁️ AWS S3 cloud infrastructure
-- 📱 Web + Mobile apps
+- 🎯 Rank Predictor & College Predictor  
+- ☁️ AWS S3 cloud infrastructure  
+- 📱 Web + Mobile apps  
 
 🔗 https://www.neetbhaiya.in  
 
@@ -53,10 +53,10 @@ Building scalable products used by <b>30K+ users</b>
 
 ### 🛒 E-Commerce Platform
 
-- 🧩 Full-stack MERN architecture
-- 🔐 Auth & Role-based access
-- 📦 Product, Cart, Admin Dashboard
-- ⚡ Optimized REST APIs
+- 🧩 Full-stack MERN architecture  
+- 🔐 Authentication & authorization  
+- 📦 Product, Cart & Admin Dashboard  
+- ⚡ REST API architecture  
 
 ---
 
@@ -76,11 +76,11 @@ Building scalable products used by <b>30K+ users</b>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadSaifi1&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadSaifi1&theme=tokyo-night&bg_color=0D1117&color=00B894&line=00B894&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -88,10 +88,10 @@ Building scalable products used by <b>30K+ users</b>
 
 ## 🏆 Achievements
 
-- 🏅 Scaled a platform to **30K+ active users**
-- 🚀 Built **production-grade web & mobile apps**
-- ⚡ Strong hands-on with **AWS & scalable systems**
-- 💡 Focused on **performance, scalability & clean architecture**
+- 🏅 Built and scaled a platform to **30K+ users**
+- 🚀 Developed production-ready **web & mobile applications**
+- ⚡ Hands-on experience with **AWS & scalable systems**
+- 💡 Strong focus on **performance & system design**
 
 ---
 
